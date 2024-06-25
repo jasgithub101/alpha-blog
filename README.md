@@ -1,1 +1,1 @@
-app repo
+Repo for Alpha Blog
